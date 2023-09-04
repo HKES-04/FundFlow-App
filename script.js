@@ -256,6 +256,7 @@ btnLogin.addEventListener("click", function (e) {
       currentAccount.locale,
       options
     ).format(dateNow);
+    changeDisplay(currentAccount);
   }
   inputLoginUsername.value = "";
   inputLoginPin.value = "";
@@ -265,8 +266,6 @@ btnLogin.addEventListener("click", function (e) {
     clearInterval(timer);
   }
   timer = timerLogOut();
-
-  changeDisplay(currentAccount);
 });
 
 // Allows the user to transfer money
