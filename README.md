@@ -21,7 +21,7 @@ Account2: js, 2222
 ### Links
 
 - Solution URL: (https://github.com/HKES-04/Guess-The-Number.git)
-- Live Site URL: (https://hkes-04.github.io/Guess-The-Number/)
+- Live Site URL: (https://hkes-04.github.io/FundFlow-App/)
 
 ## My process
 
